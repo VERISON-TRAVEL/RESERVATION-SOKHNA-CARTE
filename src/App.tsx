@@ -180,7 +180,7 @@ function App() {
     };
 
     try {
-      const response = await fetch('https://formspree.io/f/mpwdkapw', {
+      const response = await fetch('https://formspree.io/f/xblyyywv', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
